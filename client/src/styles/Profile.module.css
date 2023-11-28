@@ -1,0 +1,8 @@
+
+.profile_img {
+    @apply w-32 md:w-40 cursor-pointer;
+}
+
+.textbox {
+    @apply w-full md:w-3/4;
+}
